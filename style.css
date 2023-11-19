@@ -89,7 +89,7 @@ p br + span {
 }
 
 #footer img {
-  position: block;
+  display: block;
   width: 100%;
   height: auto;
   margin-top: 40.83px;
